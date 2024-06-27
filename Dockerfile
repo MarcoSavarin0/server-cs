@@ -27,7 +27,7 @@ RUN echo "hostname \"Servidor CS 1.6 Dockerizado\"" > server.cfg \
     && echo "map de_dust2" >> server.cfg \
     && echo "log on" >> server.cfg \
     && echo "sv_voiceenable 1" >> server.cfg \
-    && echo "rcon_password tucontraseña" > cstrike/autoexec.cfg
+    && echo "rcon_password marquito123" > cstrike/autoexec.cfg
 
 EXPOSE 27015/tcp
 EXPOSE 27015/udp
