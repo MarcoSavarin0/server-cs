@@ -33,4 +33,4 @@ EXPOSE 27015/tcp
 EXPOSE 27015/udp
 EXPOSE 27020/tcp
 
-CMD ["./hlds_run", "-game", "cstrike", "+maxplayers", "16", "+map", "de_dust2", "+rcon_password", "tucontraseña", "-port", "27015", "-pingboost", "1"]
+CMD ["./hlds_run", "-game", "cstrike", "+maxplayers", "16", "+map", "de_dust2", "+rcon_password", "marquito123", "-port", "27015", "-pingboost", "1"]
